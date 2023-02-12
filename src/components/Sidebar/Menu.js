@@ -12,7 +12,7 @@ const Menu = () => {
             <span>
               <Icon name="home" />
             </span>
-            Ana Sayfa
+            Ana sayfa
           </a>
         </li>
         <li>
