@@ -1,5 +1,5 @@
 # Spotify Clone with React and TailwindCSS 
-### This is a spotify clone project with React and tailwindcss. I made this project to improve myself more on react and tailwind.
+### This is a spotify clone project with React and tailwindcss. It's a project I've done to improve myself on React and tailwind. When the project is finished, the music will turn into a platform that can be listened to like the original spotify. It is a responsive design.
 ## Tools:
 - React
 - React Router
